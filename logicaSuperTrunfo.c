@@ -163,6 +163,6 @@ int main() {
     }else{
         printf("Resultado: Carta 2 é a vencedora!\n\n");
     }
-    
+
     return 0;
 }
